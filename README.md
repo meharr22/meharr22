@@ -1,10 +1,10 @@
-# Hi 👋, I'm Mehar Arora  
-### AI Engineer | Deep Learning | EEG-based Intelligent Systems  
+<h1 align="center">Hi 👋, I'm Mehar Arora</h1>
+<h3 align="center">AI Engineer | Deep Learning | EEG-based Intelligent Systems</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;Deep+Learning;EEG+Analysis;Machine+Learning&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Turning+Chaos+into+Code;Exploring+Minds+with+Machines;Creating+Intelligence+from+Signals&center=true&width=500&height=50">
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - 🧠 Working on EEG-based Mind Wandering Detection using CNN-LSTM  
 - 🔬 Strong interest in Deep Learning, Signal Processing & AI Research  
 - ⚙️ Experience in building end-to-end ML pipelines (data → model → evaluation)  
--
+
 ---
 
 ## 🌐 Connect with me
@@ -59,27 +59,8 @@
 
 ---
 
-## 💼 Experience
 
-- 💻 **AI Intern – TIET (2025)**  
-  Developed CNN-LSTM model for EEG-based mind wandering detection  
-  Worked on preprocessing, spectrogram generation, and model evaluation  
-
-- 🔐 **Cybersecurity Virtual Intern – Cisco**  
-  Learned network security, threat detection & ethical hacking fundamentals  
-
----
-
-## 🏆 Achievements
-
-- 🥇 Ranked 1st in branch   
-- 🎯 Student Placement Representative  
-- 📄 Best Paper Award – EEG-based Mind Wandering Detection  
-- 🧾 Published review paper on Speech Emotion Recognition (2021–2025)  
-- ☁️ AWS Academy Graduate – Cloud Foundations  
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=meharr22&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
