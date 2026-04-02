@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehar Arora</h1>
+<h1 align="center">Hi , I'm Mehar Arora</h1>
 <h3 align="center">AI Engineer | Deep Learning | EEG-based Intelligent Systems</h3>
 
 ---
