@@ -58,25 +58,39 @@
 <img src="https://img.shields.io/badge/LTSpice-CC0000?style=for-the-badge" />
 </p>
 
-## 💡 Projects
+## 💡 Projects  
 
 - 🧠 **Mind-Wandering vs Focused Detection**  
-  Built an EEG-based pipeline for attention state classification using temporal labeling and signal preprocessing  
-  Tech: Python, MATLAB, EEGLAB, OpenCV, NumPy  
+  Developed an EEG-based classification pipeline to distinguish attention states using signal preprocessing and temporal labeling  
+  **Tech:** Python, MATLAB, EEGLAB, OpenCV, NumPy  
 
-- 🏠 **RoomMatch Connect**  
-  Smart roommate matching system based on lifestyle preferences with real-time chat integration  
-  Tech: Django, SQLite, HTML, CSS, JavaScript, WebSockets  
+- ☁️ **Secure Cloud Vault**  
+  Built a cloud-based file management system with secure upload, download, and version control using AWS services  
+  **Tech:** Python, AWS S3, Boto3, HTML  
 
-- 👗 **StyleSense AI**  
-  AI-powered fashion recommendation system using wardrobe images and user preferences  
-  Tech: React, Django, JavaScript  
+- 🎬 **Movie Booking System**  
+  Designed a console-based application to manage movie ticket bookings with efficient seat allocation and data handling  
+  **Tech:** C++, Data Structures  
 
-- 🔌 **FPGA 4-bit Accumulator (74x681)**  
-  Designed and implemented a parallel binary accumulator using Verilog on FPGA hardware  
-  Tech: Verilog, FPGA, ISE Design Suite  
+- 🖊️ **AI Gesture-Controlled Virtual Whiteboard**  
+  Created a real-time virtual whiteboard using hand gesture recognition via webcam, eliminating physical input devices  
+  **Tech:** Python, OpenCV, MediaPipe, NumPy  
 
----
+- 📚 **Smart Book Recommendation System**  
+  Developed a recommendation engine using content-based filtering and user rating patterns for personalized suggestions  
+  **Tech:** Python, Scikit-learn, Streamlit  
+
+- 🏦 **ATM Management System**  
+  Implemented a console-based ATM system supporting balance inquiry, withdrawals, deposits, and transaction history  
+  **Tech:** C++, Data Structures  
+
+- 📰 **Fake News Detection System**  
+  Built an NLP-based model to classify news articles as real or fake using TF-IDF and machine learning algorithms  
+  **Tech:** Python, Scikit-learn, Streamlit  
+
+- 🌦️ **Weatherly-Your Daily Forecast Buddy**  
+  Developed a responsive weather application that fetches real-time weather data using APIs and displays temperature, humidity, and wind speed  
+  **Tech:** HTML, CSS, JavaScript, Weather API  
 
 
 
