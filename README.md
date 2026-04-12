@@ -78,7 +78,11 @@
 
 - 📚 **Smart Book Recommendation System**  
   Developed a recommendation engine using content-based filtering and user rating patterns for personalized suggestions  
-  **Tech:** Python, Scikit-learn, Streamlit  
+  **Tech:** Python, Scikit-learn, Streamlit
+
+  - 🎙️ **Speaker Recognition System**  
+  Developed a web-based speaker recognition system that enables users to create custom datasets, train machine learning models, and identify speakers from audio recordings or uploaded files  
+  **Tech:** Python, Streamlit, MFCC, Scikit-learn (SVM), Audio Processing  
 
 - 🏦 **ATM Management System**  
   Implemented a console-based ATM system supporting balance inquiry, withdrawals, deposits, and transaction history  
