@@ -66,7 +66,11 @@
 
 - ☁️ **Secure Cloud Vault**  
   Built a cloud-based file management system with secure upload, download, and version control using AWS services  
-  **Tech:** Python, AWS S3, Boto3, HTML  
+  **Tech:** Python, AWS S3, Boto3, HTML
+
+- 🎙️ **Speaker Recognition System**  
+  Developed a web-based speaker recognition system that enables users to create custom datasets, train machine learning models, and identify speakers from audio recordings or uploaded files  
+  **Tech:** Python, Streamlit, MFCC, Scikit-learn (SVM), Audio Processing 
 
 - 🎬 **Movie Booking System**  
   Designed a console-based application to manage movie ticket bookings with efficient seat allocation and data handling  
